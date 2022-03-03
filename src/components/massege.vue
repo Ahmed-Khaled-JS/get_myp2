@@ -3,7 +3,7 @@
     <h2 class="mama">
       <fa :icon="['fa', 'fa-circle-info']" aria-hidden="true" />about me
     </h2>
-    <p>
+    <p class="OPP">
       <span> I’m ahmed .</span> <br />
       have developed many website 1. HTML5, CSS3, Bootstrap, Javascript, jquery
       and Vue JS. after that I gonna developing jquery If you got any awards
@@ -25,7 +25,7 @@ export default {
 .mama {
   padding: 1em;
 }
-p {
+.OPP {
   padding: 1em;
 }
 span {

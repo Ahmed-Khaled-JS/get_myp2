@@ -41,6 +41,6 @@ export default {
   color: #000;
 }
 .contact .info p {
-  font-size: 1.4em;
+  font-size: 1.3em;
 }
 </style>
